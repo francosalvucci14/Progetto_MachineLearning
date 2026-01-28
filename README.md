@@ -4,7 +4,7 @@ Il presente studio analizza l'efficacia di diversi paradigmi di **Machine Learni
 
 La ricerca affronta la sfida della sicurezza informatica moderna attraverso un confronto sistematico tra modelli basati su iperpiani di separazione e architetture ensemble, operando su uno spazio vettoriale composto da **89 feature** estratte (caratteristiche lessicali, statistiche e comportamentali degli URL).
 
-Le feature sono state estratte grazie agli script presenti in [Dataset/web-page-phishing/ScriptFeatureExtraction]
+Le feature sono state estratte grazie agli script presenti in [qui](Dataset/web-page-phishing/ScriptFeatureExtraction/)
 
 Il task di classificazione binaria viene risolto attraverso due approcci algoritmici distinti:
 
