@@ -9,3 +9,6 @@ PlotImages/
 MagnitudoMaxFeature.py
 Progetto_ML_phishing-url-BUCKET.ipynb
 Progetto_ML_phishing-url-ORIGINALE.ipynb
+models/
+dataset_phishing_bck.csv
+Dataset/web-page-phishing/ScriptFeatureExtraction/
