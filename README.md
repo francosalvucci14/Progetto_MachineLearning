@@ -1,4 +1,4 @@
-# Progetto_MachineLearning
+# Phishing URL Recognition
 
 Il presente studio analizza l'efficacia di diversi paradigmi di **Machine Learning** nella classificazione di URL malevoli, utilizzando il dataset ad alte prestazioni **Web Page Phishing Dataset**. 
 
